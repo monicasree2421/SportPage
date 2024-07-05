@@ -1,0 +1,17 @@
+body{
+    background-color:blue;
+}
+h3{
+    color:white;
+}
+img{
+    width:"80px";
+    height:"80px";
+}
+p{
+    color: pink;
+}
+h1,h2{
+    text-align: center;
+    Color:white;
+}
